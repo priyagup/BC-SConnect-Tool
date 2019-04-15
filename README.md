@@ -1,2 +1,2 @@
 # BC-SConnect-Tool
-![Dynamic Chart](https://github.com/priyagup/FileLoad/blob/master/Chart%20(1).png)
+![Dynamic Chart](https://github.com/priyagup/BC-SConnect-Tool/blob/master/idea.png)
